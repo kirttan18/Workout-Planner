@@ -1,0 +1,148 @@
+*{
+  margin: 10px;
+  background-color: hsl(0, 0%, 16%);
+  color:aliceblue;
+}
+
+.title{
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+}
+
+/* For card */
+.workout-card{
+  border: 2px solid rgba(255, 228, 196, 0.644);
+  max-width: 13.25rem;
+  height:auto ;
+  padding-top: 20px;
+  text-align: center;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.card-image{
+  width: 60%;
+  border: 2px solid;
+  border-radius: 45%;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.card-heading{
+  font-family: Arial, Helvetica, sans-serif;  
+  font-size: 1.5rem;
+}
+
+.card-text{
+  font-family: Arial, Helvetica, sans-serif; 
+  margin-bottom: 7%; 
+  font-size: 1.1rem;
+}
+
+/* For day-name */
+.day-name{
+  border: 2px solid;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.day-name h2{
+  color: orange;
+  font-size: 1.6rem;
+  background-color: rgba(240, 248, 255, 0);
+}
+
+.day-name p{
+  background-color: rgba(240, 248, 255, 0);
+}
+
+.cardContainer{
+  background-color: rgb(48, 50, 52);
+  display: inline-block;
+  padding: 20px;
+  border-radius: 30px;
+  display: none;
+}
+
+.day-name:hover {
+  background-color: rgb(48, 50, 52);
+}
+
+.days:hover .cardContainer{  
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+#SundayText{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+
+@media (max-width: 413px) {
+  *{
+    margin: 7px;
+  }
+  .workout-card {
+    max-width: 43%;
+    margin: 12px;
+    margin-right: auto;
+
+  }
+
+  .cardContainer{
+    background-color: rgb(48, 50, 52);
+    display: inline-block;
+    padding: 15px;
+    border-radius: 30px;
+    display: none;
+    align-content: center;
+  }
+
+  .card-heading{
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 1.2rem;
+  }
+
+  .card-text{
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-bottom: 11%; 
+    font-size: 1rem;
+  } 
+
+ 
+}
+
+/* 
+.workout-card{
+  border: 2px solid rgba(255, 228, 196, 0.644);
+  max-width: 13.25rem;
+  height:auto ;
+  padding-top: 20px;
+  text-align: center;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.card-image{
+  width: 60%;
+  border: 2px solid;
+  border-radius: 45%;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.card-heading{
+  font-family: Arial, Helvetica, sans-serif;  
+  font-size: 1.5rem;
+}
+
+.card-text{
+  font-family: Arial, Helvetica, sans-serif; 
+  margin-bottom: 7%; 
+  font-size: 1.1rem;
+} */

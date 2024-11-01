@@ -1,0 +1,32 @@
+{
+    "Monday":[{"id":1,"name":"Inclined Chest Press", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_INC_BP.gif"},
+              {"id":2,"name":"Declined Chest Press", "reps":"15 x 4","Imgurl":"https://musclemagfitness.com/wp-content/uploads/decline-dumbbell-hammer-press-exercise.gif"},
+              {"id":3,"name":"Chest Press", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_BP.gif"},
+              {"id":4,"name":"Chest Fly", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/PEC_DECK_MC.gif"},
+              {"id":5,"name":"Dips", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DIPS.gif"}],
+
+    "Tuesday":[ {"id":6,"name":"Squats", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_SM_SQT.gif"},
+                {"id":7,"name":"Leg Press", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/LEG_PRESS.gif"},
+                {"id":8,"name":"Seated Leg Curl", "reps":"15 x 4","Imgurl":"https://media.tenor.com/ZElx6PviDq0AAAAM/gym.gif"},
+                {"id":9,"name":"Leg Extension", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/LGE_EXT.gif"},
+                {"id":10,"name":"Calf Raises", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/BW_CALF_RAISE.gif"}],
+
+    "Wednesday":[ {"id":11,"name":"Lat Pull Down", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/LAT_PULL_DOWN.gif"},
+                {"id":12,"name":"Seated Row", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/SEATED_CABLE_ROW.gif"},
+                {"id":13,"name":"Close Grip Pull Down ", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/PAR_LAT_PULL_DOWN.gif"},
+                {"id":14,"name":"Bicep Curl", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_BC_CURL.gif"},
+                {"id":15,"name":"Cable Curl", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/CABLE_CURL.gif"},
+                {"id":16,"name":"Hammer Curl", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_HAM_CURL.gif"}],
+    
+    "Friday":[  {"id":17,"name":"Shoulder Press", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/SHD_PRESS_MAC.gif"},
+                {"id":18,"name":"Lateral Raise", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_LAT_RAISE.gif"},
+                {"id":19,"name":"Front Raise", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_F_RAISE.gif"},
+                {"id":20,"name":"Shrugs", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_SHRUG.gif"},
+                {"id":21,"name":"Reverse Fly", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/REV_PEC_DECK_MC.gif"}],
+
+    "Saturday":[ {"id":6,"name":"Squats", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/DB_SM_SQT.gif"},
+                {"id":7,"name":"Leg Press", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/LEG_PRESS.gif"},
+                {"id":8,"name":"Seated Leg Curl", "reps":"15 x 4","Imgurl":"https://media.tenor.com/ZElx6PviDq0AAAAM/gym.gif"},
+                {"id":9,"name":"Leg Extension", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/LGE_EXT.gif"},
+                {"id":10,"name":"Calf Raises", "reps":"15 x 4","Imgurl":"https://burnfit.io/wp-content/uploads/2023/11/BW_CALF_RAISE.gif"}]
+}
