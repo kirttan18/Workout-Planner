@@ -1,5 +1,7 @@
 # React + Vite
 
+This is a workout planner website that helps users plan their workouts for the entire week.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
